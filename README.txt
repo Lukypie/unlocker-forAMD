@@ -1,6 +1,5 @@
-
+--How To--
 1. Install VMware Workstation first.
-
 2. Extract files to any folder.
 
 +-----------------------------------------------------------------------------+
