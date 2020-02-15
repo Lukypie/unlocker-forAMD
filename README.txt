@@ -47,6 +47,7 @@ Change the code:
 
 virtualHW.version = "10"
 
+&
 Add the code:
 
 smc.version = "0"
