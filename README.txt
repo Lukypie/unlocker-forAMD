@@ -8,7 +8,7 @@
 --Operation confirmed with--
 AMD CPU
 Windows 10, 64-bit  (Build 18363) 10.0.18363
-macOS Mojave 10.14
+macOS Mojave 10.14.6
 --------------------
 
 --How To--
