@@ -37,12 +37,12 @@ Create a Virtual machine on VMware.
 If you did not specify location, look in Documents\virtual machines\
 Right click on the VMX file and choose "Open with". Choose "More Apps".
 From the list of apps that will be seen, choose "Notepad" and press Enter.
----For Intel CPU---
+--For Intel CPU--
 At the bottom add the code:
 
 smc.version = "0"
 
----For AMD CPU---
+--For AMD CPU--
 Change the code:
 
 virtualHW.version = "10"
@@ -62,3 +62,6 @@ cpuid.1.edx = "0000:1111:1010:1011:1111:1011:1111:1111"
 featureCompat.enable = "FALSE"
 
 Save the changes.
+
+--Thanks--
+Thanks to Dave Parsons for originally unlocker.
