@@ -1,5 +1,7 @@
 ---<Manual(English)>--- 日本語は下(Japanese bottom)
 
+macOS Catalina10.15 --> https://github.com/covolog/unlocker-supportCatalina10.15
+May be? AMD CPU CANNOT INSTALL Catalina10.15
 +-----------------------------------------------------------------------------+
 | IMPORTANT:   ONLY FOR VMware Workstation 15.1.0                             |
 | ==========                                                                  |
